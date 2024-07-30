@@ -1,0 +1,9 @@
+.active svg {
+    color: black;
+    fill: black;
+}
+
+html[dark] .active svg{
+    color: white;
+    fill: white;
+}
